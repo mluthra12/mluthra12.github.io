@@ -1,0 +1,77 @@
+.container
+{
+  position: relative; 
+  width: 900px;
+  height: 450px; 
+  background: #cccccc; 
+}
+
+.red
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: red; 
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  top: 0;
+  left: 0;
+}
+
+.green
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: green; 
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  top: 0; 
+  right: 0;
+}
+
+.blue 
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: blue; 
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+}
+
+.purple
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: purple;
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  bottom: 0; 
+  right: 0; 
+}
+
+.footer
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: grey;
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  top: 200px; 
+  right: 400px; 
+}
