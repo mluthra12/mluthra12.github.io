@@ -1,0 +1,72 @@
+.container
+{
+  position: relative; 
+  width: 880px;
+  height: 260px; 
+  background: #cccccc; 
+}
+
+.red
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: red; 
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 10px; 
+}
+
+.green
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: green; 
+  width: 200px;
+  height: 200px;
+  float: left; 
+  margin: 10px; 
+}
+
+.blue 
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: blue; 
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 10px; 
+}
+
+.purple
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: purple;
+  width: 200px;
+  height: 200px;
+  float: right; 
+  margin: 10px; 
+}
+
+.footer
+{
+  font-family: "Arial", Times, Sans-serif;
+  color: white; 
+  font-weight: bold;
+  text-align: center;
+  background: grey;
+  width: 860px;
+  height: 10;
+  float: right; 
+  margin: 10px;
+}
