@@ -4,16 +4,14 @@ header h1
     color: blue; 
     text-decoration: underline;
     font-family: 'Montserrat', sans-serif;
-    background-color: lightblue;
     font-size: 40px;
 }
 
 header p
 {
-    text-align: center left; 
+    text-align: center; 
     color:purple; 
     font-family: 'Quicksand', sans-serif;
-    background-color: lightblue;
     font-style: oblique;
     font-size: 20px;
 }
@@ -27,6 +25,5 @@ body a
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Dosis', serif;
-    background-color: lightblue;
     font-size: 15px;
 }
