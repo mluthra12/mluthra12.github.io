@@ -1,19 +1,6 @@
-header h1 
-{
-    text-align: center;
-}
-
-nav ul
-{
-    padding: 0px;
-    margin: 0px;
-    list-style-type: none;
-    color: #7C1A00; 
-}
-
 body
 {
-    font-family: "Georgia", Times, serif;
+    text-align: center;
     color: black;
     line-height: 1.4em;
     margin: 30px;
