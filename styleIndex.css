@@ -4,13 +4,15 @@ header h1
     color: blue; 
     text-decoration: underline;
     font-family: 'Montserrat', sans-serif;
+    background-color: lightblue;
 }
 
-head p
+header p
 {
-    text-align: left; 
+    text-align: center left; 
     color:purple; 
     font-family: 'Quicksand', sans-serif;
+    background-color: lightblue;
 }
 
 body a
@@ -22,9 +24,5 @@ body a
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Dosis', serif;
-}
-
-body 
-{
     background-color: lightblue;
 }
