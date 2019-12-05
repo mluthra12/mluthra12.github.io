@@ -5,6 +5,13 @@ header h1
     text-decoration: underline;
 }
 
+head h1
+{
+    text-align: center; 
+    color: blue; 
+    text-decoration: underline;
+}
+
 body a
 {
     color: black;
