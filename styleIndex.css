@@ -7,14 +7,15 @@ header h1
 
 head h1
 {
-    text-align: center; 
-    color: blue; 
-    text-decoration: underline;
+    text-align: left; 
+    color:black; 
+    
 }
 
 body a
 {
     color: black;
+    text-decoration: none;
     line-height: 1.4em;
     margin: 30px;
     background-repeat: no-repeat;
