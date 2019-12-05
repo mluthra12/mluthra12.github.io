@@ -27,3 +27,8 @@ body a
     font-family: 'Dosis', serif;
     font-size: 15px;
 }
+
+body
+{
+    background-color: lightblue;
+}
