@@ -23,3 +23,8 @@ body a
     background-attachment: fixed;
     font-family: 'Dosis', sans-serif;
 }
+
+body 
+{
+    background-color: lightblue;
+}
