@@ -2,6 +2,7 @@ header h1
 {
     text-align: center; 
     color: blue; 
+    text-decoration: underline;
 }
 
 body
@@ -12,5 +13,4 @@ body
     margin: 30px;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: #F7F3DE;
 }
