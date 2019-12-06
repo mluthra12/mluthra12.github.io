@@ -3,7 +3,7 @@ header h1
     text-align: center; 
     color: blue; 
     text-decoration: underline;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', serif;
     font-size: 40px;
 }
 
@@ -24,7 +24,7 @@ body a
     margin: 30px;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: 'Dosis', serif;
+    font-family: 'Dosis', sans-serif;
     font-size: 15px;
 }
 
